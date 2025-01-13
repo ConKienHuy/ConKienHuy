@@ -1,28 +1,30 @@
 <h2>  Hi there 👋 </h2>
 
-<!-- Repo has been edited to be static, see comments for dynamic calls. -->
 Here's a little about me:
-
 <h2>
-  I really like music :headphones:
+  I really like music 🎧
 </h2>
 
 <!-- Nothing weird to see here -->
 <p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+  <a href="https://open.spotify.com/track/6kBrCet8H2BNoQwAQeo00d?si=65d4c275b5ea423c">
     <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
+      <img src="img/now-playing.svg">
     <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
   </a>
+
 </p>
 
 <h2> Languages and Tools 🧰 </h2>
 
-<img align="left" alt="Java" width="70" height="70" style="padding-right:10px;" src="https://raw.githubusercontent.com/ConKienHuy/ConKienHuy/7b15306853fc7aa7dbc9b43a6639aed2b20a2f7c/icons/java.svg"/>
-<img align="left" alt="Spring" width="70" height="70" style="padding-right:10px;" src="https://raw.githubusercontent.com/ConKienHuy/ConKienHuy/7b15306853fc7aa7dbc9b43a6639aed2b20a2f7c/icons/spring.svg" />
-<img align="left" alt="CSharp" width="70" height="70" style="padding-right:10px;" src="https://raw.githubusercontent.com/ConKienHuy/ConKienHuy/7b15306853fc7aa7dbc9b43a6639aed2b20a2f7c/icons/csharp.svg" />
-<img align="left" alt="HTML" width="70" height="70" style="padding-right:10px;" src="https://raw.githubusercontent.com/ConKienHuy/ConKienHuy/7b15306853fc7aa7dbc9b43a6639aed2b20a2f7c/icons/html.svg" />
-<img align="left" alt="CSS" width="70" height="70" style="padding-right:10px;" src="https://raw.githubusercontent.com/ConKienHuy/ConKienHuy/7b15306853fc7aa7dbc9b43a6639aed2b20a2f7c/icons/css.svg" />
+<img align="left" alt="Java" width="50" height="50" style="padding-right:10px;" src="img/java.svg"/>
+<img align="left" alt="Spring" width="50" height="50" style="padding-right:10px;" src="img/spring.svg" />
+<img align="left" alt="CSharp" width="50" height="50" style="padding-right:10px;" src="img/csharp.svg" />
+<img align="left" alt="DotNet" width="50" height="50" style="padding-right:10px;" src="img/dotnet.svg" />
+<img align="left" alt="HTML" width="50" height="50" style="padding-right:10px;" src="img/html.svg" />
+<img align="left" alt="CSS" width="50" height="50" style="padding-right:10px;" src="img/css.svg" />
+<img align="left" alt="JavaScript" width="50" height="50" style="padding-right:10px;" src="img/javascript.svg" />
+<img align="left" alt="Git" width="50" height="50" style="padding-right:10px;" src="img/git.svg" />
 <br/> <br/> <br/> <br/>
 
 <h2> My Passion & Goals ✨  </h2>
@@ -37,4 +39,9 @@ Here's a little about me:
 
 <p align="left">
   I’m excited about the future and aiming to develop impactful web applications using Java or C#. Let’s build something amazing together! 🚀
+</p>
+
+<p align="center">
+  <img src="img/relax.gif" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  <br/><span>uwu <3</span>
 </p>
